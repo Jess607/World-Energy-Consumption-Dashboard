@@ -2,11 +2,11 @@
 This project is a web application dashboard of the energy consumption of the countries in the world. The dashboard can be found [here](https://countriesenergyconsumption.herokuapp.com/)
 
 # Table Of Contents
-* [Installation](https://github.com/Jess607/Natural-gas-prediction#installation)
-* [About the Project](https://github.com/Jess607/Natural-gas-prediction#about-the-project)
-* [Data Gathering](https://github.com/Jess607/Natural-gas-prediction#data-gathering)
-* [File Description](https://github.com/Jess607/Natural-gas-prediction#file-description)
-* [Licensing and Authors](https://github.com/Jess607/Natural-gas-prediction#limitations)
+* [Installation](https://github.com/Jess607/World-Energy-Consumption-Dashboard#installation)
+* [About the Project](https://github.com/Jess607/World-Energy-Consumption-Dashboard#about-the-project)
+* [Data Gathering](https://github.com/Jess607/World-Energy-Consumption-Dashboard#data-gathering)
+* [File Description](https://github.com/Jess607/World-Energy-Consumption-Dashboard#file-description)
+* [Licensing and Authors](https://github.com/Jess607/World-Energy-Consumption-Dashboard#licensing-and-authors)
 
 # Installation 
 The code requires:
